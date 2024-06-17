@@ -1,0 +1,58 @@
+*{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+nav{
+        background-color: rgba(43, 39, 39, 0.719);
+    }
+
+    .LogoAulab{
+        width: 100px;
+        height: 100px;
+
+    }
+
+    .link{
+
+        text-decoration: none;
+        color: white;
+
+    }
+    .listLink{
+
+        list-style-type: none;
+    }
+
+    header{
+
+        background-image: url(./media/notebook.jpg);
+        height: 80vh;
+        background-size: cover;
+        background-position: center;
+        text-align: center;
+    }
+
+    h1,h2{
+
+        color: rgb(17, 17, 17);
+        font-size: 50px;
+    }
+
+    .linkHome{
+
+        color:  rgb(10, 10, 10);
+        text-decoration: none;
+
+    }
+
+    .btnArticle{
+
+        background-color: blue;
+        color: white;
+    }
+
+    .btnArticle:hover{
+
+        background-color: rgb(168, 168, 57);
+        color: black;
+    }
